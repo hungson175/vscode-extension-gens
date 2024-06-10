@@ -5,26 +5,14 @@ This tutorial is designed to help you get started with Local Language Models (LL
 
 ## Index
 - [Getting Started with LLM Models: A Practical Guide](#getting-started-with-llm-models-a-practical-guide)
-  - [Goal of This Tutorial](#goal-of-this-tutorial)
-  - [Index](#index)
   - [What You Will Learn](#what-you-will-learn)
   - [Requirements](#requirements)
   - [Step 1: Setup and Explore LM Studio](#step-1-setup-and-explore-lm-studio)
-    - [Exercises:](#exercises)
-    - [Additional Tip:](#additional-tip)
-    - [Some external resources:](#some-external-resources)
+
   - [Step 2: Write a Simple VS Code Extension](#step-2-write-a-simple-vs-code-extension)
   - [Step 3: Use LM Studio to Setup a Local LLM Server and Test with Postman](#step-3-use-lm-studio-to-setup-a-local-llm-server-and-test-with-postman)
   - [Step 4: Write a Very Simple Extension for VS Code to Test Simple Auto-complete](#step-4-write-a-very-simple-extension-for-vs-code-to-test-simple-auto-complete)
-    - [Objective:](#objective)
-    - [Access the Code:](#access-the-code)
-    - [Guidance for Non-JS Programmers:](#guidance-for-non-js-programmers)
-    - [Note:](#note)
   - [Step 5: Connect VS Code Extension to LLM Local Server for Code Completion](#step-5-connect-vs-code-extension-to-llm-local-server-for-code-completion)
-    - [Objective:](#objective-1)
-    - [Integration Process:](#integration-process)
-    - [Result:](#result)
-    - [Note:](#note-1)
 
 ## What You Will Learn
 - How to build a local LLM model.
